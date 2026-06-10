@@ -3,6 +3,7 @@
 A real-time, interactive **3D Pokemon Battle Arena** built in C++ using **OpenGL** and **GLUT**. This project was developed as part of the **TCG6223 Computer Graphics** course at the Faculty of Information Science and Technology (FIST), Multimedia University.
 
 ## 👥 Group Members
+*   **Bryan Tan Bin Guan** (242UT243V3)
 *   **Chong Jie Lun** (242UT243V4)
 *   **Gan Zi Jin** (242UT243TY)
 *   **Chong Tian Wei** (1231303630)
